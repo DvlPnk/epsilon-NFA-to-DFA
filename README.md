@@ -1,2 +1,3 @@
-# AFND-e_AFD
-from AFND-e to AFD
+# epsilon NFA to DFA
+output: Dtran table
+Final version: epsilonNFA_to_DFA.py
